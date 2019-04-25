@@ -1,0 +1,17 @@
+D:\Unity Projects\csharp2\Department Application MVP\bin\Debug\Department Application MVP.exe.config
+D:\Unity Projects\csharp2\Department Application MVP\bin\Debug\Department Application MVP.exe
+D:\Unity Projects\csharp2\Department Application MVP\bin\Debug\Department Application MVP.pdb
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\Department Application MVP.csprojAssemblyReference.cache
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\MainWindow.g.cs
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\App.g.cs
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\Department Application MVP_MarkupCompile.cache
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\Department Application MVP_MarkupCompile.lref
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\MainWindow.baml
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\Department Application MVP.g.resources
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\Department_Application_MVP.Properties.Resources.resources
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\Department Application MVP.csproj.GenerateResource.cache
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\Department Application MVP.csproj.CoreCompileInputs.cache
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\Department Application MVP.exe
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\Department Application MVP.pdb
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\EditDepartmentWindow.g.cs
+D:\Unity Projects\csharp2\Department Application MVP\obj\Debug\EditDepartmentWindow.baml
